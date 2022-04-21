@@ -1,5 +1,5 @@
 //OpenWeatherMap API
-let apiKey = "6b4a465ac9894c63172283b3f271c20c";
+let apiKey = "XXXXX"; //REPLACE XXXXX with your API key (from OpenWeatherMap)
 
 //The values of the variables here are to ensure a preset content appears on
 //the screen upon initialization
